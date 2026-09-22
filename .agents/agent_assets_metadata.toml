@@ -1,0 +1,32 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "C4ilDxK0TuPZnVWnTDFol"
+uri = "file://artifacts/aevora/public/og-home.png"
+type = "image"
+title = "OG Image — Home"
+
+[[outputs]]
+id = "QWx9TUBikEmnRBZsJCKz9"
+uri = "file://artifacts/aevora/public/og-about.png"
+type = "image"
+title = "OG Image — About"
+
+[[outputs]]
+id = "joyLMHmyO3z8WzJhz3Zev"
+uri = "file://artifacts/aevora/public/og-services.png"
+type = "image"
+title = "OG Image — Services"
+
+[[outputs]]
+id = "2W4XpI7INxsvjoRFBXjrN"
+uri = "file://artifacts/aevora/public/og-projects.png"
+type = "image"
+title = "OG Image — Projects"
+
+[[outputs]]
+id = "7SowY_E6Z1i_XbX-YegMs"
+uri = "file://artifacts/aevora/public/og-contact.png"
+type = "image"
+title = "OG Image — Contact"

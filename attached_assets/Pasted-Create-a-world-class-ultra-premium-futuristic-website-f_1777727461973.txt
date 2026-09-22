@@ -1,0 +1,163 @@
+Create a world-class, ultra-premium, futuristic website for a next-generation technology company called "Aevora".
+
+Goal:
+
+The website must look like a top-tier Silicon Valley AI startup (similar quality to Stripe, Vercel, Apple, or OpenAI websites). It should feel expensive, cutting-edge, and visually stunning.
+
+Brand Identity:
+
+- Name: Aevora
+- Positioning: Advanced Software, AI, and Cybersecurity company
+- Personality: Intelligent, futuristic, minimal, powerful, elegant
+
+Design Style:
+
+- Dark futuristic UI with glowing neon accents
+- Glassmorphism + soft gradients
+- Clean, minimal layouts with strong typography
+- Use depth, lighting, and motion to create a premium feel
+
+Colors:
+
+- Background: Deep gradient (#0A0F2C → #05070F)
+- Primary: #6C3BFF (Electric Purple)
+- Accent: #00D1FF (Neon Cyan)
+- Highlight Glow: #8A7CFF
+- Text: #FFFFFF / #BFC7FF
+
+Typography:
+
+- Headings: Space Grotesk (bold, large scale)
+- Body: Inter (clean and readable)
+
+Tech Stack:
+
+- React (with Vite or Next.js)
+- Tailwind CSS
+- Framer Motion (for animations)
+- Optional: Three.js for subtle 3D background effects
+
+Core Requirements:
+
+- Fully responsive (mobile-first)
+- Smooth scrolling and transitions
+- Advanced animations (fade, slide, scale, parallax)
+- Interactive hover states
+- High performance and clean structure
+
+Pages:
+
+1. Home (Highly polished landing page)
+
+Sections:
+
+- Hero:
+  
+  - Headline: "Engineering the Future"
+  - Subtext: "Aevora builds intelligent, secure, and scalable digital systems."
+  - CTA: "Start a Project" / "Explore Work"
+  - Background: animated gradient + glowing particles or 3D orb
+
+- Trusted/Stats Section:
+  
+  - Animated counters (clients, projects, uptime)
+
+- Services:
+  
+  - Cards with icons:
+    - Software Engineering
+    - Cybersecurity
+    - AI Systems
+  - Hover glow effects
+
+- Projects Showcase:
+  
+  - Interactive cards with tilt/hover animation
+
+- Why Aevora:
+  
+  - 3–4 key differentiators
+
+- Call to Action Section:
+  
+  - Strong visual + button
+
+- Footer:
+  
+  - Minimal, elegant
+
+---
+
+2. About Page:
+
+- Company story
+- Mission & Vision
+- Values (clean icon grid)
+- Modern layout with spacing and animation
+
+---
+
+3. Services Page:
+
+- Each service has:
+  - Title
+  - Description
+  - Visual/icon
+  - Sub-features
+- Smooth transitions between sections
+
+---
+
+4. Projects Page:
+
+- Grid with filters (optional)
+- Each project card:
+  - Image/preview
+  - Title
+  - Tech stack
+  - Hover animation
+
+---
+
+5. Contact Page:
+
+- Modern form UI
+- Floating labels
+- Subtle glow effects
+- Optional map or illustration
+
+---
+
+UI Components:
+
+- Sticky transparent navbar (blur on scroll)
+- Animated buttons (glow on hover)
+- Cards with depth and shadow
+- Section transitions
+- Scroll-triggered animations
+
+---
+
+Effects:
+
+- Glassmorphism panels
+- Neon glow accents
+- Particle or gradient animated background
+- Optional subtle 3D orb using Three.js
+
+---
+
+Code Quality:
+
+- Clean component structure
+- Reusable components
+- Organized folders
+- Comments where needed
+
+---
+
+Final Output:
+
+Generate a complete, production-ready project with all pages, components, styles, and animations implemented.
+
+The result must feel like a premium startup website worth thousands of dollars.
